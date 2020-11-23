@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/04/16 10:32:11.000.789,=C:\Users\guido\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/04/16 10:32:40.000.882,=C:\Users\guido\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/29 08:47:16.000.061,=C:\Users\guido\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/29 08:48:41.000.051,D:\SOFTWARE DEVELOPER\PROGETTI EMBARCADERO\MICRO SERVER\Unit1.dfm=C:\Users\guido\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/07/29 08:48:41.000.051,D:\SOFTWARE DEVELOPER\PROGETTI EMBARCADERO\MICRO SERVER\Unit1.pas=C:\Users\guido\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/29 08:48:52.000.018,D:\SOFTWARE DEVELOPER\PROGETTI EMBARCADERO\MICRO SERVER\MicroClient.dproj=C:\Users\guido\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/07/29 08:49:00.000.690,D:\SOFTWARE DEVELOPER\PROGETTI EMBARCADERO\MICRO SERVER\Unit1.pas=</Transaction>
+    <Transaction>2017/07/29 08:49:24.000.338,=D:\SOFTWARE DEVELOPER\PROGETTI EMBARCADERO\MICRO SERVER\UClient.pas</Transaction>
+  </Transactions>
+</BorlandProject>
